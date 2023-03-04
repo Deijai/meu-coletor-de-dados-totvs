@@ -1,0 +1,7 @@
+{
+  "name": "Meu Coletor de Dados TOTVS",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
